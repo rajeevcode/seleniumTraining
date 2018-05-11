@@ -29,8 +29,11 @@ public class NewAccount {
         driver = utilities.DriverFactory.open(browserType);
 
         // open browser to account management page
-        driver.get("http://sdettraining.com/trguitransactions/AccountManagement.aspx");
-        driver.findElement(By.linkText("Create Account")).click();
+        //driver.get("http://sdettraining.com/trguitransactions/AccountManagement.aspx");
+        driver.get ( "http://sdettraining.com/trguitransactions/NewAccount.aspx" );
+        //driver.findElement(By.linkText("Create Account")).click();
+        //driver.findElement ( By.xpath ( "/html/body/form/div[3]/div[2]/div/div[2]/a" ) ).click ();
+       // /html/body/form/div[3]/div[2]/div/div[2]/a
 
         // Define WebElements
         WebElement nameElement = driver.findElement(By.name("ctl00$MainContent$txtFirstName"));
@@ -84,6 +87,6 @@ public class NewAccount {
             System.out.println ("Test Failed" );
         }
         // quit browser
-        driver.quit();
+        driver.close ();
     }
 }
