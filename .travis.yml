@@ -8,7 +8,8 @@
 #  - cd java
 
 language: java
-jdk: oraclejdk8
+jdk:
+  - oraclejdk8
 sudo: false
 script: mvn clean verify
 
