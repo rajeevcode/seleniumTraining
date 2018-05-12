@@ -14,13 +14,8 @@ sudo: false
 script: mvn clean verify
 
 
-#
-#cache:
-#    directories:
-#        - $HOME/.m2
+before_install:
+   - if [ "$TRAVIS_OS_NAME" == "osx" ]; then export
+JAVA_HOME=$(/usr/libexec/java_home); fi
 
-#before_install:
-# - cd java
-#before_install:
-#  - cd java
-#  - ./mvnw install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
+-m
