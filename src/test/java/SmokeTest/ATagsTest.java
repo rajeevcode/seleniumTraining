@@ -32,7 +32,7 @@ import java.util.List;
                  break;
              }
          }
-         // Assertion
+         // Assertion fail
          Assert.assertTrue (createAccountPresent);
      }
 
