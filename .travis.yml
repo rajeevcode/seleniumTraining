@@ -1,5 +1,12 @@
 language: java
-jdk: oraclejdk8
+
+jdk:
+  - oraclejdk8
+  - oraclejdk9
+  - openjdk8
+
+./mvnw install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
+./mvnw test -B
 
 #apt-get update
 #
