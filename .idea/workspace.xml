@@ -46,7 +46,9 @@
     </treeState>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fb6ed56-e117-4411-864f-473d481717eb" name="Default" comment="" />
+    <list default="true" id="3fb6ed56-e117-4411-864f-473d481717eb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitlab-ci.yml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -97,16 +99,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ATagsTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ATagsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+            <state relative-caret-position="276">
+              <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitlab-ci.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -225,6 +232,90 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
+              <item name=".idea" type="cbb8eebc:String" user=".idea" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
+              <item name=".idea/inspectionProfiles" type="cbb8eebc:String" user=".idea/inspectionProfiles" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Tests">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
+              <item name="src/test/java" type="cbb8eebc:String" user="src/test/java" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
+              <item name="src/test/java" type="cbb8eebc:String" user="src/test/java" />
+              <item name="demos" type="cbb8eebc:String" user="demos" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
+              <item name="src/test/java" type="cbb8eebc:String" user="src/test/java" />
+              <item name="SmokeTest" type="cbb8eebc:String" user="SmokeTest" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
+              <item name="src/test/java" type="cbb8eebc:String" user="src/test/java" />
+              <item name="utilities" type="cbb8eebc:String" user="utilities" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
+              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
+              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
+              <item name="demos" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
+              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
+              <item name="SmokeTest" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
+              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
+              <item name="utilities" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
+              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -322,37 +413,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
-              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
-              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
-              <item name="demos" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
-              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
-              <item name="SmokeTest" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
-              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
-              <item name="utilities" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
-              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
-              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -382,59 +442,6 @@
               <item name="seleniumTraining" type="e9137016:NonAndroidModuleNode" />
               <item name="tests" type="f7eae187:NonAndroidSourceTypeNode" />
               <item name="utilities" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
-              <item name=".idea" type="cbb8eebc:String" user=".idea" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
-              <item name=".idea/inspectionProfiles" type="cbb8eebc:String" user=".idea/inspectionProfiles" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <subPane subId="Tests">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
-              <item name="src/test/java" type="cbb8eebc:String" user="src/test/java" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
-              <item name="src/test/java" type="cbb8eebc:String" user="src/test/java" />
-              <item name="demos" type="cbb8eebc:String" user="demos" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
-              <item name="src/test/java" type="cbb8eebc:String" user="src/test/java" />
-              <item name="SmokeTest" type="cbb8eebc:String" user="SmokeTest" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
-              <item name="src/test/java" type="cbb8eebc:String" user="src/test/java" />
-              <item name="utilities" type="cbb8eebc:String" user="utilities" />
             </path>
           </expand>
           <select />
@@ -732,6 +739,7 @@
       <workItem from="1526093150873" duration="4503000" />
       <workItem from="1526103884695" duration="136000" />
       <workItem from="1526113409413" duration="1467000" />
+      <workItem from="1526120792692" duration="682000" />
     </task>
     <task id="LOCAL-00001" summary="tags">
       <created>1525917814262</created>
@@ -957,7 +965,21 @@
       <option name="project" value="LOCAL" />
       <updated>1526115533212</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="added new codes">
+      <created>1526120827601</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1526120827601</updated>
+    </task>
+    <task id="LOCAL-00034" summary="new commit">
+      <created>1526120865906</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1526120865906</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -993,7 +1015,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57947000" />
+    <option name="totallyTimeSpent" value="58629000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1005,7 +1027,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="51" width="1253" height="709" extended-state="0" />
+    <frame x="27" y="40" width="1253" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -1043,13 +1065,12 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298611" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.75722545" side_tool="true" weight="0.42708334" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32935026" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -1073,6 +1094,7 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32935026" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298611" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.3542527" weight="0.39756945" />
     </layout-to-restore>
@@ -1118,7 +1140,8 @@
     </ignored-roots>
     <MESSAGE value="tags" />
     <MESSAGE value="added new codes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added new codes" />
+    <MESSAGE value="new commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1139,13 +1162,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/demos/NewAccount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
@@ -1463,13 +1479,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        <state relative-caret-position="276">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
