@@ -24,7 +24,7 @@ public class LoginDDT {
         String message = driver.findElement ( By.id ( "conf_message" ) ).getText ( );
         System.out.println ( "Confirmation: " + message );
     }
-
+   // should run this 
     @BeforeMethod
     public void setUp() {
         driver = utilities.DriverFactory.open ( "firefox" );
