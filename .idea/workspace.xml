@@ -46,10 +46,7 @@
     </treeState>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fb6ed56-e117-4411-864f-473d481717eb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="3fb6ed56-e117-4411-864f-473d481717eb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -103,8 +100,8 @@
       <file leaf-file-name="ATagsTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+            <state relative-caret-position="246">
+              <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -216,7 +213,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="27" />
-    <option name="y" value="23" />
+    <option name="y" value="40" />
     <option name="width" value="1253" />
     <option name="height" value="709" />
   </component>
@@ -734,7 +731,7 @@
       <workItem from="1526017155120" duration="1955000" />
       <workItem from="1526093150873" duration="4503000" />
       <workItem from="1526103884695" duration="136000" />
-      <workItem from="1526113409413" duration="735000" />
+      <workItem from="1526113409413" duration="1467000" />
     </task>
     <task id="LOCAL-00001" summary="tags">
       <created>1525917814262</created>
@@ -953,7 +950,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526113692676</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="added new codes">
+      <created>1526115533212</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1526115533212</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -989,7 +993,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57215000" />
+    <option name="totallyTimeSpent" value="57947000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1001,7 +1005,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="23" width="1253" height="709" extended-state="0" />
+    <frame x="27" y="51" width="1253" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -1459,8 +1463,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
+        <state relative-caret-position="246">
+          <caret line="32" column="14" lean-forward="true" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
