@@ -5,11 +5,11 @@ jdk:
   - oraclejdk9
   - openjdk8
 
-./mvnw install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
-./mvnw test -B
+mvnw install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
+mvnw test -B
 
-#apt-get update
-#
+apt-get update
+
 #install: true
 #script: ./mvnw clean install
 #
