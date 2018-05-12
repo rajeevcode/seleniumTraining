@@ -56,7 +56,6 @@
             <version>2.85</version>
             <scope>provided</scope>
         </dependency>
-
     </dependencies>
 
     <build>
@@ -73,5 +72,17 @@
             </plugin>
         </plugins>
     </build>
+    <repositories>
+        <repository>
+            <id>gitlab-gitlab-ce</id>
+            <url>https://packages.gitlab.com/gitlab/gitlab-ce/maven2</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
 
 </project>
