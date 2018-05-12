@@ -47,7 +47,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fb6ed56-e117-4411-864f-473d481717eb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitlab-ci.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -90,15 +91,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.travis.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ATagsTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -113,7 +105,11 @@
       </file>
       <file leaf-file-name=".gitlab-ci.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -153,6 +149,7 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java" />
+        <option value="$PROJECT_DIR$/.gitlab-ci.yml" />
       </list>
     </option>
   </component>
@@ -326,56 +323,6 @@
             <path>
               <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
               <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="demos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SmokeTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utilities" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -402,12 +349,6 @@
               <item name="target" type="462c0819:PsiDirectoryNode" />
               <item name="maven-status" type="462c0819:PsiDirectoryNode" />
               <item name="maven-compiler-plugin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="surefire-reports" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -739,7 +680,7 @@
       <workItem from="1526093150873" duration="4503000" />
       <workItem from="1526103884695" duration="136000" />
       <workItem from="1526113409413" duration="1467000" />
-      <workItem from="1526120792692" duration="682000" />
+      <workItem from="1526120792692" duration="1864000" />
     </task>
     <task id="LOCAL-00001" summary="tags">
       <created>1525917814262</created>
@@ -979,7 +920,21 @@
       <option name="project" value="LOCAL" />
       <updated>1526120865906</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="new commit">
+      <created>1526122514709</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1526122514709</updated>
+    </task>
+    <task id="LOCAL-00036" summary="new commit">
+      <created>1526122754820</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1526122754820</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1015,7 +970,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58629000" />
+    <option name="totallyTimeSpent" value="59811000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1039,13 +994,13 @@
       <window_info anchor="right" id="Nativer Admin" order="3" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3388215" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49880287" visible="true" weight="0.38539898" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49880287" weight="0.38539898" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5011971" side_tool="true" weight="0.327212" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.51543736" weight="0.328125" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Jenkins" order="4" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2510322" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2510322" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1470,13 +1425,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -1487,8 +1435,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
