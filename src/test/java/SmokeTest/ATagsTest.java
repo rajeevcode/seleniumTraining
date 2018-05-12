@@ -24,7 +24,7 @@ import java.util.List;
 
          int numberOfAElements = aElements.size ();
          System.out.println ("There are " + numberOfAElements + " a tags on the page");
-         //loops added check
+         //loops added check the test
          for (WebElement aElement : aElements){
              System.out.println (aElement.getText ());
              if ( aElement.equals ("CREATE ACCOUNT") ){
