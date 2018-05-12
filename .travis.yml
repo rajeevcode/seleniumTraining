@@ -17,4 +17,5 @@ script: mvn clean verify
 before_install:
    - if [ "$TRAVIS_OS_NAME" == "osx" ]; then export
     JAVA_HOME=$(/usr/libexec/java_home); fi
+   -m
 
