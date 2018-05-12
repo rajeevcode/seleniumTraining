@@ -19,6 +19,13 @@
             <version>6.14.3</version>
             <scope>test</scope>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.gitlab/java-gitlab-api -->
+        <dependency>
+            <groupId>org.gitlab</groupId>
+            <artifactId>java-gitlab-api</artifactId>
+            <version>4.0.0</version>
+        </dependency>
+
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
