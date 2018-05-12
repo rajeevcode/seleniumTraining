@@ -12,7 +12,7 @@ jdk: oraclejdk8
 sudo: false
 script: mvn clean verify
 
-./mvnw install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
+
 
 cache:
     directories:
@@ -21,3 +21,4 @@ cache:
 
 before_install:
   - cd java
+  - ./mvnw install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
