@@ -20,10 +20,10 @@ public class PageTitleJunit {
         String actualTitle = driver.getTitle ();
         System.out.println (actualTitle );
         String expectedTitle = "SDET Training | Account Management";
-       // Assert.assertEquals (expectedTitle, actualTitle);
-        //Assert.fail ();
+        // Assert.assertEquals (expectedTitle, actualTitle);
+        // Assert.fail ();
     }
-
+   // kumar
     @BeforeTest
     public void setUp(){
         System.out.println ("Setting up the test" );

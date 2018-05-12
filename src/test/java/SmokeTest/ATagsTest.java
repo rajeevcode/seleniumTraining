@@ -17,7 +17,7 @@ import java.util.List;
      @Test
      public void loginElementsPresentTest() {
          System.out.println ("Running test");
-         boolean createAccountPresent = false;
+         boolean createAccountPresent = true;
 
          // We want to test the presence of A tags >> hyperlinks
          List<WebElement> aElements = driver.findElements (By.tagName ("a"));
@@ -28,7 +28,7 @@ import java.util.List;
          for (WebElement aElement : aElements){
              System.out.println (aElement.getText ());
              if ( aElement.equals ("CREATE ACCOUNT") ){
-                 createAccountPresent = true;
+                 createAccountPresent = false;
                  break;
              }
          }

@@ -22,7 +22,6 @@ public class LoginPresentTestNG {
 
         Assert.assertTrue (loginEmailBox, "Email textbox present");
         Assert.assertTrue (passwordBox, "Password textbox not present");
-       // driver.close ();
     }
 
     @BeforeMethod

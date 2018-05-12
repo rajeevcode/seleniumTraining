@@ -5,8 +5,7 @@ import java.util.List;
 public class DataReaders {
 
     public static void main(String[] args) {
-
-        readCSV ();
+        readCSV ( );
         readXLS ( );
     }
 
@@ -17,7 +16,7 @@ public class DataReaders {
         // Iterating through the list
         for (String[] record : records) {
             for (String field : record) {
-                System.out.println ("\nNEW CSV RECORD" );
+                System.out.println ( "\nNEW CSV RECORD" );
                 System.out.println ( field );
             }
         }
