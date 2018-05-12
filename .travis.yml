@@ -1,2 +1,9 @@
 language: java
-#mvn install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
+jdk: oraclejdk8
+
+install: true
+script: ./mvnw clean install
+
+cache:
+  directories:
+  - $HOME/.m2
