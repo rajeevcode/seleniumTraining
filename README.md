@@ -1,0 +1,2 @@
+# seleniumTraining
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/64c2f83b9e2e4c13bb719756ae537c5b)](https://app.codacy.com/app/rajeevcode/seleniumTraining?utm_source=github.com&utm_medium=referral&utm_content=rajeevcode/seleniumTraining&utm_campaign=badger)
