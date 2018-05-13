@@ -47,7 +47,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fb6ed56-e117-4411-864f-473d481717eb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -98,7 +98,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginFactory.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/LoginFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="202">
@@ -106,6 +106,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -165,7 +174,6 @@
         <option value="$PROJECT_DIR$/src/test/java/SmokeTest/LoginPresentTestNG.java" />
         <option value="$PROJECT_DIR$/src/test/java/demos/DataReaders.java" />
         <option value="$PROJECT_DIR$/src/test/java/SmokeTest/PageTitleJunit.java" />
-        <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java" />
         <option value="$PROJECT_DIR$/.gitlab-ci.yml" />
         <option value="$PROJECT_DIR$/src/test/java/demos/Login.java" />
@@ -179,6 +187,7 @@
         <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/LoginPageFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/LoginFactory.java" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -770,7 +779,7 @@
       <workItem from="1526120792692" duration="5206000" />
       <workItem from="1526177556094" duration="783000" />
       <workItem from="1526178396177" duration="1763000" />
-      <workItem from="1526193166913" duration="20298000" />
+      <workItem from="1526193166913" duration="20517000" />
     </task>
     <task id="LOCAL-00001" summary="tags">
       <created>1525917814262</created>
@@ -1066,7 +1075,21 @@
       <option name="project" value="LOCAL" />
       <updated>1526220479897</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="added .gitlab-ci.yml file maven">
+      <created>1526220885952</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1526220885952</updated>
+    </task>
+    <task id="LOCAL-00044" summary="changes to .gitlab-ci.yml file maven">
+      <created>1526221123127</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1526221123127</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1102,7 +1125,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85997000" />
+    <option name="totallyTimeSpent" value="86216000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1115,6 +1138,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="126" y="23" width="1154" height="725" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.6135182" side_tool="true" weight="0.3263889" />
@@ -1133,11 +1157,11 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Nativer Admin" order="3" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49820143" visible="true" weight="0.38512397" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49820143" visible="true" weight="0.38512397" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50179857" side_tool="true" weight="0.38512397" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.51543736" weight="0.32561985" />
       <window_info anchor="right" id="Jenkins" order="4" weight="0.32999164" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24190648" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24190648" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49791145" weight="0.3293718" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -1230,7 +1254,8 @@
     <MESSAGE value="new commit" />
     <MESSAGE value="added .gitlab-ci.yml file" />
     <MESSAGE value="added .gitlab-ci.yml file maven" />
-    <option name="LAST_COMMIT_MESSAGE" value="added .gitlab-ci.yml file maven" />
+    <MESSAGE value="changes to .gitlab-ci.yml file maven" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes to .gitlab-ci.yml file maven" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1367,7 +1392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml" />
     <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1605,6 +1629,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
