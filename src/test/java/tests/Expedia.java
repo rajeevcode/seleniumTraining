@@ -1,12 +1,18 @@
 package tests;
 
+import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.remote.Augmenter;
 import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+import java.io.File;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.concurrent.TimeUnit;
 
@@ -22,7 +28,12 @@ public class Expedia {
     String searchResult = "3";
 
     @Test
-    public void hotelReservation() {
+    public void hotelReservation() throws IOException {
+
+        // Screenshot
+        File scrFile = ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
+        // Now you can do whatever you need to do with it, for example copy somewhere
+        FileUtils.copyFile(scrFile, new File("/Users/rajeev.kumar/git/seleniumTraining/screenshots/screenshot.png"));
 
         // Search
         driver.findElement ( By.xpath ( "//*[@id=\"tab-hotel-tab-hp\"]" ) ).click ( );
@@ -72,17 +83,16 @@ public class Expedia {
     }
 
     @BeforeTest
-    public void setUp() {
+    public void setUp() throws IOException {
         driver = utilities.DriverFactory.open ( browserType );
         driver.manage ( ).timeouts ( ).implicitlyWait ( 10, TimeUnit.SECONDS );
         driver.get ( url );
-
     }
 
     @AfterTest
     public void tearDown() {
         driver.quit ( );
-
     }
 }
+
 
