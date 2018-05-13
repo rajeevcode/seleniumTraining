@@ -47,14 +47,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fb6ed56-e117-4411-864f-473d481717eb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/DashboardPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/LoginFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Expedia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/Expedia.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -93,11 +86,11 @@
   <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginPageFactory.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LoginPageFactory.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPageFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+            <state relative-caret-position="510">
+              <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -105,11 +98,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginFactory.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LoginFactory.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/LoginFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="39" lean-forward="true" selection-end-line="20" selection-end-column="1" />
+            <state relative-caret-position="202">
+              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -125,6 +118,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DriverFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -175,8 +177,8 @@
         <option value="$PROJECT_DIR$/src/test/java/tests/Login.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/LoginFactory1.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/LoginFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/LoginPageFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/LoginFactory.java" />
       </list>
     </option>
   </component>
@@ -768,7 +770,7 @@
       <workItem from="1526120792692" duration="5206000" />
       <workItem from="1526177556094" duration="783000" />
       <workItem from="1526178396177" duration="1763000" />
-      <workItem from="1526193166913" duration="19723000" />
+      <workItem from="1526193166913" duration="20298000" />
     </task>
     <task id="LOCAL-00001" summary="tags">
       <created>1525917814262</created>
@@ -1057,16 +1059,17 @@
       <option name="project" value="LOCAL" />
       <updated>1526205409822</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="added .gitlab-ci.yml file maven">
+      <created>1526220479897</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1526220479897</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Login - 2018.05.13 at 19h 46m 46s.xml">
-      <configuration name="Login" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Login - 2018.05.13 at 19h 48m 37s.xml">
-      <configuration name="Login" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="ATagsTest - 2018.05.13 at 19h 49m 10s.xml">
       <configuration name="ATagsTest" configurationId="TestNG" />
     </history-entry>
@@ -1091,9 +1094,15 @@
     <history-entry file="Login - 2018.05.13 at 20h 45m 31s.xml">
       <configuration name="Login" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="LoginFactory - 2018.05.13 at 21h 06m 29s.xml">
+      <configuration name="LoginFactory" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginFactory - 2018.05.13 at 21h 07m 20s.xml">
+      <configuration name="LoginFactory" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="85422000" />
+    <option name="totallyTimeSpent" value="85997000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1106,7 +1115,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="126" y="23" width="1154" height="725" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.6135182" side_tool="true" weight="0.3263889" />
@@ -1120,16 +1128,16 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.320802" weight="0.4499151" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.21133094" weight="0.3289256" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.21223022" weight="0.3289256" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Nativer Admin" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49880287" weight="0.38539898" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.78866905" side_tool="true" weight="0.3289256" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.51543736" weight="0.3272727" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49820143" visible="true" weight="0.38512397" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50179857" side_tool="true" weight="0.38512397" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.51543736" weight="0.32561985" />
       <window_info anchor="right" id="Jenkins" order="4" weight="0.32999164" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24190648" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24190648" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49791145" weight="0.3293718" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -1527,13 +1535,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pages/DashboardPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
@@ -1580,20 +1581,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/LoginFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPageFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="39" lean-forward="true" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="510">
+          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPageFactory.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="46" column="11" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/LoginFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
