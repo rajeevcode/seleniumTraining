@@ -46,7 +46,52 @@
     </treeState>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fb6ed56-e117-4411-864f-473d481717eb" name="Default" comment="" />
+    <list default="true" id="3fb6ed56-e117-4411-864f-473d481717eb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Expedia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/seleniumTraining-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/SDET University Test Suites/Smoke Test1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/SDET University Test Suites/Smoke Test1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/SDET University Test Suites/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-SmokeTest.ATagsTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-SmokeTest.LoginPresentTestNG.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-SmokeTest.MyTestNgClass.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-SmokeTest.PageTitleJunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/SDET University Test Suites/Smoke Test1.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/SDET University Test Suites/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/SDET University Test Suites/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/SDET University Test Suites/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/SDET University Test Suites/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/SDET University Test Suites/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/SDET University Test Suites/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/SDET University Test Suites/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/SDET University Test Suites/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/SDET University Test Suites/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/SDET University Test Suites/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,14 +112,50 @@
   <component name="CoverageOptionsProvider">
     <option name="myAddOrReplace" value="2" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CreateAccount.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/demos/CreateAccount.java">
+      <file leaf-file-name="LoginDDT.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/LoginDDT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+            <state relative-caret-position="150">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Expedia.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/Expedia.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39">
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2462#2470#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DriverFactory.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -82,29 +163,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-348">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ATagsTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitlab-ci.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="39">
+              <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -138,7 +198,6 @@
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/utilities/Excel.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/LoginDDT.java" />
-        <option value="$PROJECT_DIR$/src/test/java/demos/Login.java" />
         <option value="$PROJECT_DIR$/src/test/java/demos/NewAccount.java" />
         <option value="$PROJECT_DIR$/src/test/java/SmokeTest/LoginPresentTestNG.java" />
         <option value="$PROJECT_DIR$/src/test/java/demos/DataReaders.java" />
@@ -146,6 +205,8 @@
         <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java" />
         <option value="$PROJECT_DIR$/.gitlab-ci.yml" />
+        <option value="$PROJECT_DIR$/src/test/java/demos/Login.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Expedia.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
@@ -213,9 +274,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="27" />
-    <option name="y" value="40" />
-    <option name="width" value="1253" />
+    <option name="x" value="41" />
+    <option name="y" value="23" />
+    <option name="width" value="1239" />
     <option name="height" value="709" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -226,6 +287,108 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
+              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
+              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
+              <item name="demos" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
+              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
+              <item name="SmokeTest" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
+              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
+              <item name="utilities" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
+              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
+              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="dataFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="jars" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="SmokeTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -274,78 +437,6 @@
               <item name="seleniumTraining" type="cbb8eebc:String" user="seleniumTraining" />
               <item name="src/test/java" type="cbb8eebc:String" user="src/test/java" />
               <item name="utilities" type="cbb8eebc:String" user="utilities" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
-              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
-              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
-              <item name="demos" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
-              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
-              <item name="SmokeTest" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
-              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
-              <item name="utilities" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="58d84e3e:PackageViewProjectNode" />
-              <item name="seleniumTraining" type="616d4139:PackageViewModuleNode" />
-              <item name="Libraries" type="5c3f07af:PackageViewLibrariesNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-test-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-archiver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-compiler-plugin" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -421,9 +512,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginDDT">
-    <configuration name="DataReaders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="demos.DataReaders" />
+  <component name="RunManager" selected="TestNG.Expedia">
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demos.Login" />
       <module name="seleniumTraining" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -435,52 +526,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="NewAccountDDT" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="seleniumTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.NewAccountDDT" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="NewAccountDDT.newAcccountTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="seleniumTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.NewAccountDDT" />
-      <option name="METHOD_NAME" value="newAcccountTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -524,6 +569,64 @@
       <method>
         <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="test" />
       </method>
+    </configuration>
+    <configuration name="Expedia" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Expedia" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Expedia.hotelReservation" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.Expedia" />
+      <option name="METHOD_NAME" value="hotelReservation" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
     </configuration>
     <configuration name="LoginDDT" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumTraining" />
@@ -631,19 +734,19 @@
     <list>
       <item itemvalue="Maven.Run Maven" />
       <item itemvalue="TestNG.LoginPresentTestNG" />
-      <item itemvalue="Application.DataReaders" />
-      <item itemvalue="JUnit.NewAccountDDT" />
-      <item itemvalue="JUnit.NewAccountDDT.newAcccountTest" />
       <item itemvalue="TestNG./Users/rajeev.kumar/git/seleniumTraining/testng.xml" />
       <item itemvalue="TestNG.LoginDDT" />
+      <item itemvalue="Application.Login" />
+      <item itemvalue="TestNG.Expedia" />
+      <item itemvalue="TestNG.Expedia.hotelReservation" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginDDT" />
-        <item itemvalue="Application.DataReaders" />
+        <item itemvalue="TestNG.Expedia" />
+        <item itemvalue="TestNG.Expedia.hotelReservation" />
+        <item itemvalue="Application.Login" />
         <item itemvalue="TestNG./Users/rajeev.kumar/git/seleniumTraining/testng.xml" />
-        <item itemvalue="JUnit.NewAccountDDT" />
-        <item itemvalue="JUnit.NewAccountDDT.newAcccountTest" />
+        <item itemvalue="TestNG.LoginDDT" />
       </list>
     </recent_temporary>
   </component>
@@ -677,7 +780,10 @@
       <workItem from="1526093150873" duration="4503000" />
       <workItem from="1526103884695" duration="136000" />
       <workItem from="1526113409413" duration="1467000" />
-      <workItem from="1526120792692" duration="3544000" />
+      <workItem from="1526120792692" duration="5206000" />
+      <workItem from="1526177556094" duration="783000" />
+      <workItem from="1526178396177" duration="1763000" />
+      <workItem from="1526193166913" duration="9925000" />
     </task>
     <task id="LOCAL-00001" summary="tags">
       <created>1525917814262</created>
@@ -952,43 +1058,50 @@
       <option name="project" value="LOCAL" />
       <updated>1526125103482</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="added .gitlab-ci.yml file maven">
+      <created>1526136558063</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1526136558063</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NewAccountDDT - 2018.05.11 at 08h 41m 44s.xml">
-      <configuration name="NewAccountDDT" configurationId="JUnit" />
+    <history-entry file="Expedia - 2018.05.13 at 16h 10m 42s.xml">
+      <configuration name="Expedia" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_rajeev_kumar_git_seleniumTraining_testng_xml - 2018.05.11 at 08h 46m 31s.xml">
-      <configuration name="/Users/rajeev.kumar/git/seleniumTraining/testng.xml" configurationId="TestNG" />
+    <history-entry file="Expedia - 2018.05.13 at 16h 11m 35s.xml">
+      <configuration name="Expedia" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginDDT - 2018.05.11 at 09h 21m 42s.xml">
-      <configuration name="LoginDDT" configurationId="TestNG" />
+    <history-entry file="Expedia - 2018.05.13 at 16h 14m 39s.xml">
+      <configuration name="Expedia" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginDDT - 2018.05.11 at 09h 24m 59s.xml">
-      <configuration name="LoginDDT" configurationId="TestNG" />
+    <history-entry file="Expedia - 2018.05.13 at 16h 24m 18s.xml">
+      <configuration name="Expedia" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginDDT - 2018.05.11 at 09h 25m 34s.xml">
-      <configuration name="LoginDDT" configurationId="TestNG" />
+    <history-entry file="Expedia - 2018.05.13 at 16h 25m 36s.xml">
+      <configuration name="Expedia" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginDDT - 2018.05.11 at 09h 30m 24s.xml">
-      <configuration name="LoginDDT" configurationId="TestNG" />
+    <history-entry file="Expedia - 2018.05.13 at 16h 28m 14s.xml">
+      <configuration name="Expedia" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginDDT - 2018.05.11 at 09h 32m 21s.xml">
-      <configuration name="LoginDDT" configurationId="TestNG" />
+    <history-entry file="Expedia - 2018.05.13 at 16h 28m 54s.xml">
+      <configuration name="Expedia" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginDDT - 2018.05.11 at 09h 34m 20s.xml">
-      <configuration name="LoginDDT" configurationId="TestNG" />
+    <history-entry file="Expedia - 2018.05.13 at 16h 29m 30s.xml">
+      <configuration name="Expedia" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginDDT - 2018.05.11 at 09h 35m 36s.xml">
-      <configuration name="LoginDDT" configurationId="TestNG" />
+    <history-entry file="Expedia - 2018.05.13 at 16h 31m 07s.xml">
+      <configuration name="Expedia" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginDDT - 2018.05.11 at 09h 37m 12s.xml">
-      <configuration name="LoginDDT" configurationId="TestNG" />
+    <history-entry file="Expedia - 2018.05.13 at 16h 32m 10s.xml">
+      <configuration name="Expedia" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61491000" />
+    <option name="totallyTimeSpent" value="75624000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1000,33 +1113,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="40" width="1253" height="709" extended-state="0" />
+    <frame x="41" y="23" width="1239" height="709" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.21637426" weight="0.7147708" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.6135182" side_tool="true" weight="0.3263889" />
       <window_info anchor="right" id="Nativer Admin" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3388215" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.33751044" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Version Control" order="7" sideWeight="0.49880287" visible="true" weight="0.38539898" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.5011971" side_tool="true" weight="0.327212" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7836257" side_tool="true" weight="0.41426146" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.51543736" weight="0.328125" />
       <window_info id="Capture Tool" order="2" />
-      <window_info anchor="right" id="Jenkins" order="4" />
+      <window_info anchor="right" id="Jenkins" order="4" weight="0.32999164" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2510322" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1904762" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32912534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.3542527" weight="0.39756945" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.320802" weight="0.4499151" />
       <window_info anchor="bottom" id="TeamCity" order="8" weight="0.3163752" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.16201118" weight="0.41068447" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
@@ -1034,15 +1147,16 @@
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32935026" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3298611" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49955633" weight="0.3293718" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.75722545" side_tool="true" weight="0.42708334" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32935026" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
@@ -1066,7 +1180,6 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.32935026" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3298611" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.3542527" weight="0.39756945" />
     </layout-to-restore>
@@ -1136,13 +1249,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/demos/NewAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/PageTitleJunit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -1285,13 +1391,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="8" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -1336,27 +1435,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/target/test-classes/utilities/DriverFactory.class" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/CSV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dataFile/UserAccounts.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1364,107 +1442,140 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/NewAccountDDT.java">
+    <entry file="file://$PROJECT_DIR$/.travis.yml" />
+    <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="210">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="48" column="4" lean-forward="true" selection-start-line="2" selection-end-line="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/MyTestNgClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="55" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/LoginPresentTestNG.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/demos/NewAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1065">
-          <caret line="74" column="9" selection-start-line="74" selection-start-column="9" selection-end-line="74" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Excel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-51">
-          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/demos/CreateAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/demos/DataReaders.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/demos/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/LoginDDT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/PageTitleJunit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
+        <state relative-caret-position="299">
+          <caret line="26" column="15" lean-forward="true" selection-start-line="2" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/LoginPresentTestNG.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        <state relative-caret-position="404">
+          <caret line="32" lean-forward="true" selection-start-line="2" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/CSV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/LoginDDT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/NewAccountDDT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/demos/NewAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+        <state relative-caret-position="1335">
+          <caret line="92" selection-start-line="2" selection-end-line="92" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/demos/DataReaders.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="360">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/demos/CreateAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/demos/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Excel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Expedia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2462#2470#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-348">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="39">
+          <caret line="81" column="21" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
         </state>
       </provider>
     </entry>
