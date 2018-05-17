@@ -47,7 +47,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fb6ed56-e117-4411-864f-473d481717eb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/SmokeTest/ClientPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/SmokeTest/TestMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ClientPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/CorporateClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Unlock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/screenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/LoginFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/LoginFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/Login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/LoginFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/LoginFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/DriverFactory.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -86,11 +97,29 @@
   <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LoginPageFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPageFactory.java">
+      <file leaf-file-name="NewAccountDDT.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/NewAccountDDT.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+            <state relative-caret-position="1140">
+              <caret line="87" column="33" selection-start-line="87" selection-start-column="33" selection-end-line="87" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientPage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/ClientPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestMethod.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/TestMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="35" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,11 +127,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LoginFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/LoginFactory.java">
+      <file leaf-file-name="CorporateClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/CorporateClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+            <state relative-caret-position="1365">
+              <caret line="101" column="1" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,41 +139,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <file leaf-file-name="Unlock.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/Unlock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            <state relative-caret-position="135">
+              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Login.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/tests/Login.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="41" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DriverFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="420">
+              <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="32" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -161,6 +172,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selecy</find>
+      <find>url = &quot;http://sdettraining.com/trguitransactions/AccountManagement.aspx&quot;;</find>
+      <find>select</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -168,7 +186,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/Utilities/DriverFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java" />
         <option value="$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTestTest.java" />
         <option value="$PROJECT_DIR$/src/test/resources/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/SmokeTest/MyTestNgClass.java" />
@@ -191,18 +208,27 @@
         <option value="$PROJECT_DIR$/src/test/java/pages.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/DashboardPage.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/Login.java" />
         <option value="$PROJECT_DIR$/src/test/java/tests/LoginFactory1.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/pages/LoginPageFactory.java" />
-        <option value="$PROJECT_DIR$/src/test/java/tests/LoginFactory.java" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Login.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/LoginFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/base.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Base/TestBase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/TestUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SmokeTest/ClientPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SmokeTest/ClientPageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/ClientPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SmokeTest/TestMethod.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/CorporateClient.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Unlock.java" />
       </list>
     </option>
   </component>
   <component name="JavaAutoRunManager">
     <enabled-run-configurations>
-      <run-configuration type="TestNG" name="$PROJECT_DIR$/testng.xml" />
       <run-configuration type="TestNG" name="LoginPresentTestNG" />
     </enabled-run-configurations>
   </component>
@@ -263,10 +289,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="126" />
-    <option name="y" value="23" />
-    <option name="width" value="1154" />
-    <option name="height" value="725" />
+    <option name="x" value="27" />
+    <option name="y" value="44" />
+    <option name="width" value="1233" />
+    <option name="height" value="705" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -286,26 +312,11 @@
             <path>
               <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
               <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
               <item name="dataFile" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
               <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="jars" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -320,22 +331,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="SmokeTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
@@ -344,14 +339,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTraining" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTraining" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="utilities" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -511,9 +498,31 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginFactory">
-    <configuration name="LoginFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="tests.LoginFactory" />
+  <component name="RunManager" selected="Application.Unlock">
+    <configuration name="CorporateClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.CorporateClient" />
+      <module name="seleniumTraining" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TestMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SmokeTest.TestMethod" />
+      <module name="seleniumTraining" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SmokeTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Unlock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tests.Unlock" />
       <module name="seleniumTraining" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -569,19 +578,19 @@
         <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="test" />
       </method>
     </configuration>
-    <configuration name="ATagsTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ClientPage" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SmokeTest.*" />
+          <option name="PATTERN" value="tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="SmokeTest" />
-      <option name="MAIN_CLASS_NAME" value="SmokeTest.ATagsTest" />
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ClientPage" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -598,7 +607,7 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="Login" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ClientPage.hotelReservation" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="seleniumTraining" />
       <extension name="coverage">
         <pattern>
@@ -610,39 +619,10 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
       <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.Login" />
-      <option name="METHOD_NAME" />
+      <option name="MAIN_CLASS_NAME" value="tests.ClientPage" />
+      <option name="METHOD_NAME" value="hotelReservation" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="LoginFactory" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="seleniumTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.LoginFactory" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -685,35 +665,6 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="Login.loginTestPOM" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="seleniumTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="tests" />
-      <option name="MAIN_CLASS_NAME" value="tests.Login" />
-      <option name="METHOD_NAME" value="loginTestPOM" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -739,19 +690,19 @@
     <list>
       <item itemvalue="Maven.Run Maven" />
       <item itemvalue="TestNG.LoginPresentTestNG" />
-      <item itemvalue="TestNG.Login" />
-      <item itemvalue="TestNG.Login.loginTestPOM" />
-      <item itemvalue="TestNG.ATagsTest" />
-      <item itemvalue="Application.LoginFactory" />
-      <item itemvalue="TestNG.LoginFactory" />
+      <item itemvalue="TestNG.ClientPage" />
+      <item itemvalue="TestNG.ClientPage.hotelReservation" />
+      <item itemvalue="Application.TestMethod" />
+      <item itemvalue="Application.CorporateClient" />
+      <item itemvalue="Application.Unlock" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginFactory" />
-        <item itemvalue="TestNG.Login" />
-        <item itemvalue="Application.LoginFactory" />
-        <item itemvalue="TestNG.ATagsTest" />
-        <item itemvalue="TestNG.Login.loginTestPOM" />
+        <item itemvalue="Application.Unlock" />
+        <item itemvalue="Application.CorporateClient" />
+        <item itemvalue="Application.TestMethod" />
+        <item itemvalue="TestNG.ClientPage.hotelReservation" />
+        <item itemvalue="TestNG.ClientPage" />
       </list>
     </recent_temporary>
   </component>
@@ -790,6 +741,13 @@
       <workItem from="1526178396177" duration="1763000" />
       <workItem from="1526193166913" duration="21942000" />
       <workItem from="1526270054346" duration="596000" />
+      <workItem from="1526292130697" duration="1019000" />
+      <workItem from="1526294231944" duration="4675000" />
+      <workItem from="1526306695463" duration="1741000" />
+      <workItem from="1526344180177" duration="304000" />
+      <workItem from="1526344548216" duration="4000" />
+      <workItem from="1526363272228" duration="25230000" />
+      <workItem from="1526555719467" duration="22000" />
     </task>
     <task id="LOCAL-00001" summary="tags">
       <created>1525917814262</created>
@@ -1113,43 +1071,50 @@
       <option name="project" value="LOCAL" />
       <updated>1526221321814</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="deleted  .gitlab-ci.yml file maven">
+      <created>1526292280886</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1526292280886</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ATagsTest - 2018.05.13 at 19h 49m 10s.xml">
-      <configuration name="ATagsTest" configurationId="TestNG" />
+    <history-entry file="ClientPage_hotelReservation - 2018.05.15 at 14h 19m 13s.xml">
+      <configuration name="ClientPage.hotelReservation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ATagsTest - 2018.05.13 at 19h 51m 32s.xml">
-      <configuration name="ATagsTest" configurationId="TestNG" />
+    <history-entry file="ClientPage_hotelReservation - 2018.05.15 at 14h 20m 20s.xml">
+      <configuration name="ClientPage.hotelReservation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ATagsTest - 2018.05.13 at 19h 52m 20s.xml">
-      <configuration name="ATagsTest" configurationId="TestNG" />
+    <history-entry file="ClientPage_hotelReservation - 2018.05.15 at 14h 24m 19s.xml">
+      <configuration name="ClientPage.hotelReservation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Login - 2018.05.13 at 19h 52m 47s.xml">
-      <configuration name="Login" configurationId="TestNG" />
+    <history-entry file="ClientPage_hotelReservation - 2018.05.15 at 14h 25m 20s.xml">
+      <configuration name="ClientPage.hotelReservation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Login - 2018.05.13 at 19h 54m 17s.xml">
-      <configuration name="Login" configurationId="TestNG" />
+    <history-entry file="ClientPage_hotelReservation - 2018.05.15 at 14h 26m 54s.xml">
+      <configuration name="ClientPage.hotelReservation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Login - 2018.05.13 at 19h 55m 00s.xml">
-      <configuration name="Login" configurationId="TestNG" />
+    <history-entry file="ClientPage_hotelReservation - 2018.05.15 at 14h 36m 29s.xml">
+      <configuration name="ClientPage.hotelReservation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Login - 2018.05.13 at 19h 57m 27s.xml">
-      <configuration name="Login" configurationId="TestNG" />
+    <history-entry file="ClientPage_hotelReservation - 2018.05.15 at 14h 38m 44s.xml">
+      <configuration name="ClientPage.hotelReservation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="Login - 2018.05.13 at 20h 45m 31s.xml">
-      <configuration name="Login" configurationId="TestNG" />
+    <history-entry file="ClientPage_hotelReservation - 2018.05.15 at 14h 39m 30s.xml">
+      <configuration name="ClientPage.hotelReservation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginFactory - 2018.05.13 at 21h 06m 29s.xml">
-      <configuration name="LoginFactory" configurationId="TestNG" />
+    <history-entry file="ClientPage_hotelReservation - 2018.05.15 at 14h 46m 24s.xml">
+      <configuration name="ClientPage.hotelReservation" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginFactory - 2018.05.13 at 21h 07m 20s.xml">
-      <configuration name="LoginFactory" configurationId="TestNG" />
+    <history-entry file="ClientPage_hotelReservation - 2018.05.15 at 14h 49m 15s.xml">
+      <configuration name="ClientPage.hotelReservation" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88237000" />
+    <option name="totallyTimeSpent" value="121232000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1161,7 +1126,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="126" y="23" width="1154" height="725" extended-state="0" />
+    <frame x="27" y="44" width="1233" height="705" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
@@ -1169,25 +1135,25 @@
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.6135182" side_tool="true" weight="0.3263889" />
-      <window_info anchor="right" id="Nativer Admin" order="3" />
+      <window_info anchor="right" id="Nativer Admin" order="3" weight="0.32913518" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.33751044" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49820143" visible="true" weight="0.38512397" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50179857" side_tool="true" weight="0.38512397" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50377834" side_tool="true" weight="0.32820514" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49820143" weight="0.14876033" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.51543736" weight="0.32561985" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Jenkins" order="4" weight="0.32999164" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24190648" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2225021" />
       <window_info anchor="right" id="Database" order="3" weight="0.32912534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.32550335" weight="0.44941956" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.320802" weight="0.4499151" />
       <window_info anchor="bottom" id="TeamCity" order="8" weight="0.3163752" />
-      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.21223022" weight="0.3289256" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.16540723" weight="0.33846155" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
@@ -1195,7 +1161,7 @@
       <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32935026" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49791145" weight="0.3293718" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49622166" weight="0.32820514" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="2" />
@@ -1295,58 +1261,29 @@
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/ClientPage.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/tests/ClientPage.java</url>
+          <line>25</line>
+          <properties class="tests.ClientPage" method="hotelReservation">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/demos/NewAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="74" column="33" selection-start-line="74" selection-start-column="33" selection-end-line="74" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/demos/CreateAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/demos/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/demos/CreateAccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        <state relative-caret-position="420">
+          <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="32" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -1431,50 +1368,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="48" column="4" lean-forward="true" selection-start-line="2" selection-end-line="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/MyTestNgClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/PageTitleJunit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="26" column="15" lean-forward="true" selection-start-line="2" selection-end-line="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/CSV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/NewAccountDDT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="52" selection-start-line="52" selection-end-line="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/demos/NewAccount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1335">
@@ -1500,44 +1393,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="284">
           <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Excel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/test-classes/demos/CreateAccount.class">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/captureScreen.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/pages.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Expedia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2462#2470#0" expanded="true" />
-            <element signature="e#4251#4252#0" expanded="true" />
-            <element signature="e#4282#4283#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/LoginPresentTestNG.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="12" selection-end-column="87" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.11.0/selenium-remote-driver-3.11.0-sources.jar!/org/openqa/selenium/remote/HttpCommandExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
@@ -1568,63 +1428,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/LoginDDT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="32" column="23" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="41" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPageFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/tests/LoginFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml" />
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
@@ -1633,10 +1436,170 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/Excel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/MyTestNgClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/PageTitleJunit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="26" column="15" lean-forward="true" selection-start-line="2" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/CSV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPageFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/base.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Base/TestBase.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/ATagsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="35" lean-forward="true" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/ClientPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Expedia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="49" column="62" selection-start-line="49" selection-start-column="62" selection-end-line="49" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="31" column="67" selection-start-line="31" selection-start-column="67" selection-end-line="31" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/LoginDDT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/LoginPresentTestNG.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/LoginFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/NewAccountDDT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="87" column="33" selection-start-line="87" selection-start-column="33" selection-end-line="87" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/ClientPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/SmokeTest/TestMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/CorporateClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="101" column="1" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="63" column="21" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
+        <state relative-caret-position="420">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Unlock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
