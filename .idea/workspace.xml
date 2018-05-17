@@ -47,18 +47,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fb6ed56-e117-4411-864f-473d481717eb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/SmokeTest/ClientPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SmokeTest/TestMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/ClientPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/CorporateClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Unlock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshots/screenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/screenshot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/LoginFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/LoginFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/DriverFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/LoginFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/LoginFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/DriverFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/DriverFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Unlock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/Unlock.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -143,7 +132,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/tests/Unlock.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+              <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -747,7 +736,7 @@
       <workItem from="1526344180177" duration="304000" />
       <workItem from="1526344548216" duration="4000" />
       <workItem from="1526363272228" duration="25230000" />
-      <workItem from="1526555719467" duration="22000" />
+      <workItem from="1526555719467" duration="216000" />
     </task>
     <task id="LOCAL-00001" summary="tags">
       <created>1525917814262</created>
@@ -1114,7 +1103,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="121232000" />
+    <option name="totallyTimeSpent" value="121426000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1139,12 +1128,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.33751044" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.50377834" side_tool="true" weight="0.32820514" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49820143" weight="0.14876033" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.51543736" weight="0.32561985" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49820143" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.51543736" visible="true" weight="0.32478634" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="right" id="Jenkins" order="4" weight="0.32999164" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2225021" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2225021" />
       <window_info anchor="right" id="Database" order="3" weight="0.32912534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -1596,7 +1585,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/tests/Unlock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
